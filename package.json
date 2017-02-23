@@ -1,0 +1,32 @@
+{
+  "name": "js-cfclient",
+  "version": "1.1.0",
+  "description": "CF API client NPM",
+  "main": "cfclient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jbariel/js-cfclient.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jbariel/js-cfclient/issues",
+    "email": "jarrett@barielinc.com"
+  },
+  "keywords": [
+    "CF",
+    "PCF",
+    "API",
+    "Pivotal",
+    "Cloud Foundry"
+  ],
+  "author": "Jarrett Bariel <jarrett@barielinc.com> (http://www.barielinc.com)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "client-oauth2": "^2.2.0",
+    "promise": "^7.1.1"
+  },
+  "homepage": "https://github.com/jbariel/js-cfclient#readme",
+  "devDependencies": {}
+}
